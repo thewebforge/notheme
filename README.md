@@ -10,7 +10,7 @@ It keeps minimal features, and prevents theme update notificationsthat can be an
 
 ## Installation ##
 
-1. [Download the theme here.](https://github.com/thewebforge/notheme)
+1. [Download the theme here.](https://github.com/thewebforge/notheme/blob/main/archive/notheme.1.0.0.zip)
 2. On your WordPress website admin, go to Appearance > Themes > Add New. 
 3. Click on `Upload Theme`.
 4. Browse for the zip file.
