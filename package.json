@@ -1,0 +1,22 @@
+{
+  "name": "notheme",
+  "version": "1.0.0",
+  "description": "A strictly minimal theme for Oxygen users",
+  "main": "index.js",
+  "scripts": {
+    "pack": "zip-build src archive -t %NAME%.%VERSION%.%EXT%"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thewebforge/notheme.git"
+  },
+  "author": "Cédric Bontems",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thewebforge/notheme/issues"
+  },
+  "homepage": "https://github.com/thewebforge/notheme#readme",
+  "devDependencies": {
+    "zip-build": "^1.7.0"
+  }
+}

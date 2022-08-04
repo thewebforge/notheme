@@ -1,7 +1,7 @@
 # No Theme for Oxygen
 **Contributors:** Cédric Bontems - The Web Forge  
 **Tags:** oxygen  
-**License:** MIT 
+**License:** MIT  
 **License URI:** https://opensource.org/licenses/MIT
 
 This theme replaces default WordPress themes when you use Oxygen.
